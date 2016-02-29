@@ -19,10 +19,16 @@
     "cross",
     "platform"
   ],
-  "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
+  "author": {
+    "name": "Manuel Rueda",
+    "email": "manuel.rueda.un@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ManRueda/tfs-everywhere/issues"
   },
-  "homepage": "https://github.com/ManRueda/tfs-everywhere#readme"
+  "homepage": "https://github.com/ManRueda/tfs-everywhere#readme",
+  "devDependencies": {
+    "typescript": "^1.8.2"
+  }
 }
