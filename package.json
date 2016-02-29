@@ -1,0 +1,28 @@
+{
+  "name": "tfs-everywhere",
+  "version": "0.0.1",
+  "description": "TFS source control CLI wrapper",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tape test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManRueda/tfs-everywhere.git"
+  },
+  "keywords": [
+    "tfs",
+    "source",
+    "control",
+    "cli",
+    "wrapper",
+    "cross",
+    "platform"
+  ],
+  "author": "Manuel Rueda <manuel.rueda.un@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ManRueda/tfs-everywhere/issues"
+  },
+  "homepage": "https://github.com/ManRueda/tfs-everywhere#readme"
+}
